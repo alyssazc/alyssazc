@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alyssazc
-- 👀 I’m interested in violin, piano, and webnovels!
+- 👀 I’m interested in violin, piano, and webnovels
 - 🌱 I’m currently learning R and python
 - 💞️ I’m looking to collaborate on nothing; i'm an introvert
 - 📫 How to reach me: please don't
